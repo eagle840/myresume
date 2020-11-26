@@ -11,9 +11,11 @@ jobs:
       - run: echo "this is the build job"
       - run: echo "show dir contents"
       - run: ls -lash
-      - run: npm install
-      # - run: resume verify
-      - run: npm start
+      - run: npm install -g resume-cli
+      # - run: npm install
+      - run: resume test
+      - run: resume export resume.html
+      # - run: npm start
       - run: echo "show dir contents"
       - run: ls -lash
 
