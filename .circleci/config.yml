@@ -9,6 +9,13 @@ jobs:
     steps:
       - checkout
       - run: echo "this is the build job"
+      - rum: echo "show dir contents"
+      - run: ls -lash
+      - run: npm install
+      - run: resume verify
+      - run: npm start
+      - run: echo "show dir contents"
+      - run: ls -lash
 
 # Orchestrate our job run sequence
 workflows:
