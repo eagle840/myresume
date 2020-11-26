@@ -1,0 +1,28 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "description": "for processing json to html",
+  "main": "index.js",
+  "scripts": {
+    "start": "resume verify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eagle840/myresume.git"
+  },
+  "keywords": [
+    "resume-cli",
+    "html",
+    "json"
+  ],
+  "author": "nicholas busby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eagle840/myresume/issues"
+  },
+  "homepage": "https://github.com/eagle840/myresume#readme",
+  "dependencies": {
+    "resume-cli": "^2.2.3"
+  }
+}

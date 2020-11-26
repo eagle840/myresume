@@ -1,0 +1,381 @@
+{
+    "basics": {
+      "name": "Nicholas Busby",
+      "label": "IR 4 Engineer and certified Cloud Architect",
+      "picture": "",
+      "email": "eagle840@gmail.com",
+      "phone": "07960 440647",
+      "website": "http://nicholasbusby.vauxbuz.net/",
+      "summary": "A 25 plus year IT professional, with a deep love of science and technology,  and presently looking for an immediate position as a cloud engineer leading to technical architect. The position must be based in London, work with at least two cloud providers and company fit is more important than salary packet. My last position was four years at a London based MSP  working with physical, virtual and cloud based corporate computer/network infrastructure as a senior support engineer. After leaving Redblade/CloudDirect I believed it was important to spend time getting an agnostic view of the latest cloud technologies by certifying as Architect in all three major platforms and understanding/certifying in the latest DevOps/SRE/Security operations and techniques, with an understanding of the underlying systems of Kubernetes, data frameworks and programming. Prior to Redblade, for 14 years owner/operator for a small company in the US providing 100+ SME's with all aspects of support from desktop, to budgeting, designing and installation of computers, servers and small multi-campus networks.  The skills I'll be bringing to the company will be to provide a wealth of knowledge from many different networks & computer systems both old and new.  Understanding the important of excellent and friendly customer experience and able to present key concepts in easy to understand terms and implement a customer solution. And excellent leaning skills , with the ability to quickly pick up new concepts and skills.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "London",
+        "countryCode": "UK",
+        "region": ""
+      },
+      "profiles": [
+        {
+          "network": "Linkedin",
+          "username": "",
+          "url": "https://www.linkedin.com/in/ir4engineer/"
+        },
+        {
+          "network": "Blog",
+          "username": "",
+          "url": "https://eagle840.gitlab.io/jekyll/"
+        },
+  
+        {
+          "network": "GitHub",
+          "username": "",
+          "url": "https://github.com/eagle840"
+        },
+  
+        {
+          "network": "Digital Badges",
+          "username": "",
+          "url": "https://www.youracclaim.com/users/nicholas-busby/badges"
+        },
+        
+  
+        
+        {
+          "network": "Katacoda Labs",
+          "username": "",
+          "url": "https://www.katacoda.com/ir4engineer"
+        },
+  
+        {
+          "network": "PluralSight",
+          "username": "",
+          "url": "https://app.pluralsight.com/profile/nicholas-busby"
+        },
+        
+  
+        {
+          "network": "Sample Portfolio",
+          "username": "",
+          "url": "https://eagle840.gitlab.io/jekyll/portfolio/"
+        },
+        
+        {
+          "network": "Two page resume",
+          "username": "",
+          "url": "http://nicholasbusby.vauxbuz.net/NicholasBusby.pdf"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "IT Sabbatical",
+        "position": "",
+        "website": "",
+        "startDate": "2018-08-08",
+        "endDate": "2020-08-02",
+        "summary": "",
+        "highlights": [
+          "Extensive study on Cloud , Bigdata,  Containerization, DevOps, and SRE to bring my skills up to 2019 standards",
+          "Cloud Providers: GCP,  Azure, AWS, Kubernetes, Openstack",
+          "Pipelines used: dev.azure(vsts), GitLab, Jenkins",
+          "Achieving certifications as Cloud Architect in GCP, AWS, Azure, Devops, Security+ and  presently working on Kubernetes CKA (95%), Azure Security Engineer (95%), Cisco CyberOps (80%) GCP Data Engineer(50%).",
+          "Working on the Katacoda platform producing Instructional labs for IT professionals"
+        ]
+      },
+      
+      {
+        "company": "Redblade/Clouddirect",
+        "position": "Senior Technical Engineer",
+        "website": "",
+        "startDate": "2014-12-12",
+        "endDate": "2018-08-08",
+        "summary": "",
+        "highlights": [
+          "Senior engineer for a MSP/Azure Cloud provider based in London, maintaining small office to global corporations.",
+          "Providing support and installation of a wide range of operating systems for desktop, to VM infrastructures, to cloud based systems, Including both Linux and Windows operating systems.",
+          "Maintain and troubleshoot storage systems, including NAS, SAN, iSCSI, SMB NFS",
+          "Maintain and troubleshoot backup systems, includes multiple client backup solutions.",
+          "Maintain and troubleshoot small to large corporate network systems, including routed networks and s2s vpns",
+          "Achieved certification in CCNA Route and Switch, ITIL foundations, MCP Azure, AWS Cloud Practitioner, GDPR",
+          "Reason for leaving – Department moved to South Africa."
+        ]
+      },     
+      
+  
+      {
+        "company": "Flying Windmill Computers",
+        "position": "IT Engineer/Owner",
+        "website": "",
+        "startDate": "2001-01-01",
+        "endDate": "2014-10-10",
+        "summary": "",
+        "highlights": [
+          "Owner/operator of a small computer business designing, building, installation, maintenance and troubleshooting of IT services. ",
+          "Provided a wide variety of solutions; building desktops and servers, windows and linux, backup systems, RAID, and redundant systems. Single Vlan installations, and ISP connections, equipment computer interfaces.",
+          "Providing an excellent customer experience from individual employees to the owner or officers of the company.",
+          "Completing SME project work from assessing customer requirements all the way through to end of life.",
+          "Reason for leaving – closure of business."
+        ]
+      },
+      {
+        "company": "OEM Resales",
+        "position": "IT technician",
+        "website": "",
+        "startDate": "1996-01-01",
+        "endDate": "2001-01-01",
+        "summary": "",
+        "highlights": [
+          "A+, Network+,MCP NT4",
+          "Building PC's Servers and single domain networks",
+          "Providing desktop and server support.",
+          "Completing SME project work from assessing customer requirements all the way through to end of life",
+          "Reason for leaving – closure of computer department."
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Showell Vol Fire Dept.",
+        "position": "Firefire/paramedic/rescue specialist",
+        "website": "showellvfd.com",
+        "startDate": "1994-01-01",
+        "endDate": "2014-12-12",
+        "summary": "Volunteering as a local firefighter/fire chief, rescue specialist and paramedic.",
+        "highlights": [
+          "Volunteer Fire service responding to local emergencies during my free time.",
+          "Skills: Firefighter, Paramedic, Wild-land, Haz Mat, various Rescue specialities, Fire Engineer/Driver.",
+          "Team leadership, Incident Command System.",
+          "Positions: EMS Captain/Chief Engineer/Assist Chief/Secretary/treasurer/Board of directors"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Brixham Community College",
+        "area": "Information Technology",
+        "studyType": "Secondary School",
+        "startDate": "1981-01-01",
+        "endDate": "1985-01-01",
+        "gpa": "",
+        "courses": [
+          "O-Level math and physics",
+          "GCSE Computer Science"
+        ]
+      },
+      {
+        "institution": "Torquay Technical College",
+        "area": "Electronic Engineering",
+        "studyType": "Diploma: National Certificate",
+        "startDate": "1985-01-01",
+        "endDate": "1987-01-01",
+        "gpa": "",
+        "courses": []
+      },
+      {
+        "institution": "University of Salford",
+        "area": "Electronic Engineering - 1yr ",
+        "studyType": "",
+        "startDate": "1987-01-01",
+        "endDate": "1989-01-01",
+        "gpa": "",
+        "courses": []
+      },
+      {
+        "institution": "TidalHealth/Peninsula General Hospital (US)",
+        "area": "Emergency Medicine",
+        "studyType": "Diploma: NREMT-Paramedic",
+        "startDate": "1996-01-01",
+        "endDate": "2001-01-01",
+        "gpa": "",
+        "courses": []
+      },
+      {
+        "institution": "University of Maryland (US)",
+        "area": "Fire and Rescue Institute",
+        "studyType": "Firefighter, Rescue Specialist",
+        "startDate": "1999-01-01",
+        "endDate": "2001-01-01",
+        "gpa": "",
+        "courses": []
+      },
+      {
+        "institution": "Professional Certs",
+        "area": "Certifications/Exams",
+        "studyType": "",
+        "startDate": "2000-01-01",
+        "endDate": "2020-07-08",
+        "gpa": "",
+        "courses": [
+          "Comptia Security+ CE",
+          "Microsoft Certified: Azure Solutions Architect Expert",
+          "GCP Cerified Professional Cloud Architect",
+          "AWS Architect Assoc.",
+          "Microsoft AZ-400 Devops Solution Engineer",
+          "Cisco CCNA route and switch",
+          "ITIL Foundation",
+          "Microsoft Certified Professional NT4",
+          "Network+",
+          "A+"
+        ]
+      },
+      {
+        "institution": "MOOC",
+        "area": "",
+        "studyType": "",
+        "startDate": "2000-01-01",
+        "endDate": "2019-12-12",
+        "gpa": "",
+        "courses": [
+          "Introduction to DevOps: Transforming and Improving Operations (edx:Linux Foundation)",
+          "GCP for AWS professionals (Coursera:Google)",
+          "Intro to Cloud Architecture (edx:Linux Foundation)",
+          "Microsoft BigData(edx)",
+          "GDPR (OU)",
+          "Computational Investing, Part I, Georgia Institute of Technology(Cousera)",
+          "Internet History, Technology, and Security(Cousera)",
+          "Creative Programming for Digital Media & Mobile Apps(Cousera)",
+          "Irrational Behavior (Cousera)",
+          "A Look at Nuclear Science and Technology University of Pittsburgh (Cousera)",
+          "A Brief History of Humankind, Hebrew University of Jerusalem (Cousera)",
+          "Greek and Roman Mythology University of Pennsylvania (Cousera)"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "Award for Heroism",
+        "date": "2007-02-02",
+        "awarder": "Showell Vol. Fire Company",
+        "summary": "Our team made an extraordinary attempt to rescue two children from a fully involved house fire"
+      },
+      {
+        "title": "3rd Place Project Hack 5 @ Microsoft Reactor",
+        "date": "2020-02-08",
+        "awarder": "Project Data Analytics",
+        "summary": "Our team designed, produced and demo'ed software that when installed on a tablet  or mobile can take a photo of a construction site and, using AI, determine which workers are wearing their full 5 piece PPE and report that to management"
+      }
+    ],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Operating Systems",
+        "level": "",
+        "keywords": [
+          "Windows",
+          "Linux",
+          "Docker",
+          "Kubernetes",
+          "OS X",
+          "DOS",
+          "Hypervisor/Micro OS's"
+        ]
+      },
+      {
+        "name": "Cloud",
+        "level": "",
+        "keywords": [
+          "Azure",
+          "GCP",
+          "AWS",
+          "VMware vCenter",
+          "Openstack"
+        ]
+      },    
+      {
+        "name": "Networks",
+        "level": "",
+        "keywords": [
+          "TCP/IP",
+          "Wi-Fi",
+          "VPN",
+          "Cloud",
+          "VOIP",
+          "Firewall",
+          "Load Balancing",
+          "DNS"
+        ]
+      },
+      {
+        "name": "Hardware",
+        "level": "",
+        "keywords": [
+          "Intel/Mac based systems",
+          "integration with other hardware",
+          "telephone and electrical"
+        ]
+      },
+      {
+        "name": "Software",
+        "level": "",
+        "keywords": [
+          "Troubleshooting",
+          "Sysinternals",
+          "Wireshark",
+          "Network monitoring",
+          "AD",
+          "Nessus Security"
+        ]
+      },
+      {
+        "name": "Business",
+        "level": "",
+        "keywords": [
+          "GDPR",
+          "Accounting",
+          "SLA",
+          "Office"
+        ]
+      },
+      {
+        "name": "Lab Environment",
+        "level": "",
+        "keywords": [
+          "OpenStack and HyperV servers",
+          "CCNP Stack",
+          "Online: katacoda.com/ir4engineer "
+        ]
+      },
+      {
+        "name": "Languages",
+        "level": "",
+        "keywords": [
+          "Powershell",
+          "JSON/YAML",
+          "Python",
+          "node.js",
+          "HTML",
+          "BASH",
+          "Others"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Hobbies",
+        "keywords": [
+          "Guitar",
+          "Fencing",
+          "Moral philosophy",
+          "Finance"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "name": "",
+        "reference": "References available on request"
+      },
+      {
+        "name": "jsonresume.org",
+        "reference": "Made with opensource JSON Resume & NPM"
+      }
+      
+      
+    ]
+  }
