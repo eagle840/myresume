@@ -9,7 +9,7 @@ jobs:
     steps:
       - checkout
       - run: echo "this is the build job"
-      - rum: echo "show dir contents"
+      - run: echo "show dir contents"
       - run: ls -lash
       - run: npm install
       - run: resume verify
